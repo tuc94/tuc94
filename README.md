@@ -1,69 +1,47 @@
-### Hi there, I'm [Your Name] 👋
+# Hello, I'm John "Tuc" Baldecchi 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-[![Linkedin: yourname](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![website](https://img.shields.io/badge/PortfolioWebsite-yourwebsite-blue?style=flat-square&logo=google-chrome)](https://yourwebsite.com/)
+Welcome to my GitHub profile! I'm passionate about all things related to web-development and self-improvement.
 
----
+## 🚀 About Me
 
-### 👨‍💻 About Me
+I'm a full-stack developer with 5 years of profesional experience in a variety of different tech stacks and industries. I am currently working at a company called Asurion as a Software Engineer 2.
 
-- 🔭 I’m currently working on **[Your Current Project](https://github.com/yourusername/yourproject)**
-- 🌱 I’m currently learning **[Technology/Framework you're learning]**
-- 👯 I’m looking to collaborate on **[Projects you want to collaborate on]**
-- 💬 Ask me about **[Your favorite technologies, projects, or skills]**
-- 📫 How to reach me: **[Your email address]**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **[A fun fact about you]**
+## 🔧 Technologies & Tools
 
----
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<br>
+<br>
 
-### 🛠️ Languages and Tools:
+## 🌱 I’m currently learning
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+I'm currently focused on improving my skills in data structures and algorithms, Next.js, Svelte, and GraphQL.
 
----
+## 👯‍♂️ I’m looking to collaborate on
 
-### 📊 GitHub Stats
+I'm open to collaborating on open source projects that use any of the technologies above!
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
+## 📫 How to reach me
 
----
+Feel free to reach out to me through my [email](mailto:rusalo101@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/rusalshrestha/).
 
-### 📈 Top Languages
+## ⚡ Fun facts
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
+I really love videography, anime, music festivals, national parks, and listening to music in my free time. My favorite artists include Tame Impala, Frank Ocean, and Fred Again! Additionally, some of my favorite animes include Naruto, Jujutsu Kaisen, and Demon Slayer :)
 
----
+Happy coding! 🚀
 
-### 📝 Latest Blog Posts
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rusalshrestha98&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="rusalshrestha98" /></p>
 
-<!-- BLOG-POST-LIST:START -->
-- [Your latest blog post title](https://yourblog.com/your-latest-blog-post)
-- [Another blog post title](https://yourblog.com/another-blog-post)
-<!-- BLOG-POST-LIST:END -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rusalshrestha98&show_icons=true&locale=en&theme=vision-friendly-dark" alt="rusalshrestha98" /></p>
 
-➡️ [More blog posts...](https://yourblog.com)
-
----
-
-### 📫 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourname/)
-[![Twitter](https://img.shields.io/badge/Twitter-yourusername-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)
-[![Website](https://img.shields.io/badge/Website-yourwebsite-blue?style=
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusalshrestha98&theme=vision-friendly-dark" alt="rusalshrestha98" /></p>

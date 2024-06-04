@@ -4,6 +4,9 @@ Welcome to my GitHub profile! I'm passionate about all things related to web-dev
 ## ⛷️  About Me
 I'm a full-stack developer with 5 years of professional experience in a variety of different tech stacks and industries. I am currently working at a company called Asurion as a Software Engineer 2.
 
+## 🔧 Technologies & Tools
+
+
 <!--
 **tuc94/tuc94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

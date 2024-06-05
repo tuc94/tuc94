@@ -32,7 +32,7 @@ I'm open to collaborating on open source projects that use any of the technologi
 
 ## 📫 How to reach me
 
-Feel free to reach out to me through my [email](mailto:rusalo101@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/rusalshrestha/).
+Feel free to reach out to me through my [email](mailto:tuc.baldecchi@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/john-tuc-baldecchi/).
 
 ## ⚡ Fun facts
 

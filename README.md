@@ -40,8 +40,8 @@ I really love videography, anime, music festivals, national parks, and listening
 
 Happy coding! 🚀
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rusalshrestha98&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="rusalshrestha98" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuc94&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="tuc94" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rusalshrestha98&show_icons=true&locale=en&theme=vision-friendly-dark" alt="rusalshrestha98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuc94&show_icons=true&locale=en&theme=vision-friendly-dark" alt="tuc94" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusalshrestha98&theme=vision-friendly-dark" alt="rusalshrestha98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuc94&theme=vision-friendly-dark" alt="tuc94" /></p>

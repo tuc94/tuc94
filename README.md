@@ -24,7 +24,7 @@ I'm a full-stack developer with 5 years of profesional experience in a variety o
 
 ## 🌱 I’m currently learning
 
-I'm currently focused on improving my skills in data structures and algorithms, and how to use AI to improve my programming performance.
+I'm currently focused on improving my skills in data structures and algorithms, Machine learning and Web Scrapping, and how to use AI to improve my programming performance.
 
 ## 👯‍♂️ I’m looking to collaborate on
 

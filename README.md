@@ -24,7 +24,7 @@ I'm a full-stack developer with 5 years of profesional experience in a variety o
 
 ## 🌱 I’m currently learning
 
-I'm currently focused on improving my skills in data structures and algorithms, Next.js, Svelte, and GraphQL.
+I'm currently focused on improving my skills in data structures and algorithms, and how to use AI to improve my programming performance.
 
 ## 👯‍♂️ I’m looking to collaborate on
 
@@ -36,7 +36,7 @@ Feel free to reach out to me through my [email](mailto:tuc.baldecchi@gmail.com) 
 
 ## ⚡ Fun facts
 
-I really love videography, anime, music festivals, national parks, and listening to music in my free time. My favorite artists include Tame Impala, Frank Ocean, and Fred Again! Additionally, some of my favorite animes include Naruto, Jujutsu Kaisen, and Demon Slayer :)
+I have a passion for outdoor activities like running, rock climbing, and skiing. When I'm not exploring the great outdoors, you can find me in the kitchen cooking up new recipes or planning my next travel adventure. I've had the pleasure of visiting some amazing places, with Mexico, Japan, and Iceland being my top favorites.
 
 Happy coding! 🚀
 
